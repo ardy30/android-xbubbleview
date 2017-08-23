@@ -35,7 +35,7 @@ dependencies {
 
 [Sample sources][1]
 
-[Sample APK][2]
+[Sample APK](https://github.com/wuzhendev/android-xbubbleview/raw/master/assets/XBubbleView_Demo_v1_0_0.apk)
 
 ## License
 
@@ -56,4 +56,3 @@ limitations under the License.
 ```
 
 [1]: ./samples
-[2]: ./assets/XBubbleView_Demo_v1_0_0.apk
