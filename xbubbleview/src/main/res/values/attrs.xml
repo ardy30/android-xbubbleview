@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="XBubbleView">
+
+        <!-- 数量 -->
+        <attr name="xbv_count" format="integer" />
+
+        <!-- 每个子 View 的尺寸 -->
+        <attr name="xbv_childDimens" format="dimension|reference" />
+
+        <!-- 每个子 View 的尺寸 -->
+        <attr name="xbv_maxDegree" format="dimension|reference" />
+
+    </declare-styleable>
+
+</resources>
